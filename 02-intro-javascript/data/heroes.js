@@ -1,4 +1,5 @@
 // comentario
+//comentario 2
 export const heroes = [
     {
         id: 1,
